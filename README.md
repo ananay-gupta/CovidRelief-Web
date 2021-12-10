@@ -1,8 +1,8 @@
 # Covid Relief Website
-This website helps you to find covid relief services near you. Like if a person is in the need of plasma or beds 
-in hospital or anything than this app will help you to do so.
 
+The COVID -19 pandemic is one of the worst health and economic crises in modern history.
+This website helps you to find covid relief services near you. 
+This Website helps you to find the resources eg. beds ,vaccines , medicines and oxygen facilities from Various Sources.
 
+Made By : Ananay Gupta
 
-
-# Covid Relief Webpage
